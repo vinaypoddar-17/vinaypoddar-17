@@ -15,6 +15,11 @@ Welcome to my GitHub profile! I'm an engineering student passionate about progra
 - 🚀 Interested in contributing to open-source projects.
 
 🛠️ Technical Skills
+<h3>🛠️ Programming Languages & Database</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,mysql" />
+</p>
 
 Programming Languages
 
